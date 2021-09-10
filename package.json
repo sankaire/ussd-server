@@ -4,9 +4,14 @@
   "description": "To help customers with no smartphones get access to online products",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "USSD",
+    "NODE"
+
+  ],
   "author": "Tepela kerenke",
   "license": "ISC",
   "dependencies": {
