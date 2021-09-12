@@ -13,7 +13,7 @@ app.get('*', (req, res) => {
 })
 
 app.post('*', (req, res) => {
-  let {sessionId, serviceCode, phoneNumber, text} = req.body
+  let {phoneNumber, text} = req.body
   if (text == '') {
     let response = `CON What would you want to check
     1. My Account
