@@ -1,2 +1,2 @@
 # ussd-application
-To help people with no smartphones sell their products.
+An ussd application server to help customers of 'Bost finance' to check their account info.
