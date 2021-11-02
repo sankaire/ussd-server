@@ -6,4 +6,7 @@ use https://simulator.africastalking.com:1517/
 
 Enter any phone number i.e 0722 304 050
 
-the enter this code <p>*384*64302#</p>
+the enter this code
+```#!/bin/bash
+composer require tn/php-mvc-core
+```
