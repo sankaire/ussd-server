@@ -4,9 +4,9 @@ An ussd application server to help customers of 'Bost finance' to check their ac
 
 use https://simulator.africastalking.com:1517/ 
 
-Enter any phone number i.e 0722 304 050
+Enter any phone number i.e ```#!/bin/bash 0722304050 ```
 
 the enter this code
 ```#!/bin/bash
-composer require tn/php-mvc-core
+*384*64302#
 ```
