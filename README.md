@@ -9,7 +9,7 @@ Enter any phone number i.e
 0722304050 
 ```
 
-the enter this code
+then enter this code
 ```#!/bin/bash
 *384*64302#
 ```
